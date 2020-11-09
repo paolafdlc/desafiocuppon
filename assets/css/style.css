@@ -1,0 +1,52 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #FFFFFF;
+}
+
+.success {
+  background: #28a745;
+}
+
+.btn {
+  color: #212529;
+  text-align: center;
+  background: #F8F9FA;
+}
+
+.gris {
+  color: #707070;
+  font-weight: 400;
+}
+
+.footer {
+  text-align: center;
+  background: #FFFFFF;
+  color: #707070;
+  width: 95%;
+}
+
+.card-body h5 {
+  color: #212529;
+}
+
+.w15 {
+  width: 15%;
+}
+
+.h1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.oldPrice{
+  font-weight: 100;
+}
+
+.newPrice{
+  font-weight: 400;
+  color: #28a745;
+  font-size: 24px;
+}
+
+.priceText{
+  text-align: right;
+}
